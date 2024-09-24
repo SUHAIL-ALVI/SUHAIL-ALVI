@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
 <h1 align="center">Hi I'm Suhail alvi</h1>
-<h3 align="center">An Aspiring 🚀 MERN Full Stack Developer from India</h3>
+<h3 align="center">Front-end Developer</h3>
 <img align="right" alt="Programming" width="300" src="https://raw.githubusercontent.com/GreaZeY/GreaZeY/main/animation_500_kxa883sd.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suhailalvi&label=Profile%20views&color=0e75b6&style=flat" alt="suhailalvi" /> </p>
@@ -8,9 +8,9 @@
 <p align="left"> <a href="https://twitter.com/SuhailAlvi826995" target="_blank"><img src="https://img.shields.io/twitter/follow/SuhailAlvi826995?logo=twitter&style=for-the-badge" alt="SuhailAlvi826995" /></a> </p>
 
 
-- 🌱 I’m currently learning **Node JS**
+- 🌱 I’m currently learning **Web3.0**
 
-- 💬 Ask me about **React, JavaScript, TypeScript, Tailwind**
+- 💬 Ask me about **React, JavaScript, TypeScript, NEXT JS 14, talwindcss**
 
 - 📫 How to reach me **alvisuhail3@gmail.com**
 
