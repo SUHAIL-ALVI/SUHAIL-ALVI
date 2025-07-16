@@ -8,13 +8,13 @@
 <p align="left"> <a href="https://twitter.com/SuhailAlvi826995" target="_blank"><img src="https://img.shields.io/twitter/follow/SuhailAlvi826995?logo=twitter&style=for-the-badge" alt="SuhailAlvi826995" /></a> </p>
 
 
-- 🌱 I’m currently learning **Web3.0**
+- 🌱 I’m currently Exploring  **Ai World**
 
-- 💬 Ask me about **React, JavaScript, TypeScript, NEXT JS 14, talwindcss**
+- 💬 Ask me about **React, JavaScript, TypeScript, NEXT JS 14, MongoDB, Express, Node.js**
 
-- 📫 How to reach me **alvisuhail3@gmail.com**
+- 📫 How to reach me **alvisuhail400@gmail.com**
 
-- ⚡ Fun fact **RCB Supporter**
+- ⚡ Fun fact **Engineer hu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
