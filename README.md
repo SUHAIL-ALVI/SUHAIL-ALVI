@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://twitter.com/SuhailAlvi826995" target="_blank"><img src="https://img.shields.io/twitter/follow/SuhailAlvi826995?logo=twitter&style=for-the-badge" alt="SuhailAlvi826995" /></a> </p>
 
 
-- 🌱 I’m currently Exploring  **Ai World**
+- 🌱 I’m currently Exploring  **Ai Technology**
 
 - 💬 Ask me about **React, JavaScript, TypeScript, NEXT JS 14, MongoDB, Express, Node.js**
 
