@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently Exploring  **Ai Technology**
 
-- 💬 Ask me about **React, JavaScript, TypeScript, NEXT JS 14, MongoDB, Express, Node.js**
+- 💬 Ask me about **React, JavaScript, TypeScript, NEXT JS 14, MongoDB, Express js, Node.js**
 
 - 📫 How to reach me **alvisuhail400@gmail.com**
 
