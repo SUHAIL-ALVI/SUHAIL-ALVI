@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@suhailalvi826995" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@suhailalvi826995" height="30" width="40" /></a>
+<a href="[https://twitter.com/@SuhailxEngineer](https://x.com/SuhailxEngineer)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@suhailalvi826995" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/suhailalvi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suhailalvi" height="30" width="40" /></a>
 <a href="https://instagram.com/suhailalvi04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="suhailalvi04" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/suhail_alvi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="suhail_alvi" height="30" width="40" /></a>
