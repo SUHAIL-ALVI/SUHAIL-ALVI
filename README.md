@@ -45,14 +45,14 @@
 ### 📊 **GitHub Stats**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=suhailalvi&show_icons=true&theme=radical" alt="Suhail's GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suhailalvi&theme=radical" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhailalvi&layout=compact&theme=radical" alt="Top Languages" width="48%" />
 </p>
 
 ---
 
-### 🏆 **Top Languages**
+### 🔥 **Beautiful GitHub Streak**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhailalvi&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=suhailalvi&theme=radical&border_radius=10&fire=DD2727&ring=DD2727&currStreakLabel=FFFFFF&background=141321" alt="GitHub Streak" width="90%" />
 </p>
 
 ---
