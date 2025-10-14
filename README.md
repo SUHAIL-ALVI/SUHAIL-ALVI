@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
 
 <h1 align="center">👋 Hey, I'm <span style="color:#00BFFF;">Suhail Alvi</span></h1>
-<h3 align="center">💻 Software Engineer | Full-Stack Developer | Generative AI Explorer</h3>
+<h3 align="center">💻 Software Engineer | Full-Stack Developer | Python Generative AI </h3>
 
 <img align="right" alt="Coding" width="310" src="https://raw.githubusercontent.com/GreaZeY/GreaZeY/main/animation_500_kxa883sd.gif" />
 
@@ -10,7 +10,7 @@
 ### 🚀 **About Me**
 - 🎓 Final Year **Computer Science Student** (Diploma + B.Tech)
 - 💡 Passionate about **Web Development & Generative AI**
-- 🌱 Currently exploring **AI SDKs, API Integration & Next.js 14**
+- 🌱 Currently exploring **AI SDKs, API Integration, LLM, langchain Hugging face**
 - 💬 Ask me about **React, Next.js, TypeScript, Node.js, Prisma, MongoDB, PostgreSQL**
 - 📫 Reach me at **alvisuhail400@gmail.com**
 - ⚡ Fun fact: *I turn ideas into scalable apps!*
@@ -42,24 +42,53 @@
 
 ---
 
-### 📊 **GitHub Stats**
+### 💼 **Featured Projects**
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h4>🧠 AI Summarizer</h4>
+      <p>A web app using OpenAI API to summarize articles & blogs instantly.</p>
+      <a href="https://github.com/SUHAIL-ALVI/AI-Summarizer"><img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+    </td>
+    <td align="center" width="50%">
+      <h4>📹 YouTube API Clone</h4>
+      <p>Full REST API built with Express.js & MongoDB, supporting authentication & search.</p>
+      <a href="https://github.com/SUHAIL-ALVI/YouTube-API"><img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h4>💬 Twitter Clone</h4>
+      <p>Next.js + Prisma + PostgreSQL + Redis app with GraphQL integration.</p>
+      <a href="https://github.com/SUHAIL-ALVI/Twitter-Clone"><img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+    </td>
+    <td align="center" width="50%">
+      <h4>📦 GitHub README Generator</h4>
+      <p>Node.js + Python app that auto-generates beautiful GitHub READMEs.</p>
+      <a href="https://github.com/SUHAIL-ALVI/README-Generator"><img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🌈 **GitHub Activity Graph**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suhailalvi&show_icons=true&theme=radical" alt="Suhail's GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhailalvi&layout=compact&theme=radical" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SUHAIL-ALVI&theme=tokyo-night&area=true&hide_border=true" width="95%"/>
 </p>
 
 ---
 
-### 🔥 **Beautiful GitHub Streak**
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=suhailalvi&theme=radical&border_radius=10&fire=DD2727&ring=DD2727&currStreakLabel=FFFFFF&background=141321" alt="GitHub Streak" width="90%" />
-</p>
-
----
-
-### ⚙️ **Developer Quote**
+### ✨ **Fun Developer Quote**
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
+</p>
+
+---
+
+### 🎯 **Profile Summary**
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SUHAIL-ALVI&theme=tokyonight" width="95%"/>
 </p>
 
 ---
@@ -69,5 +98,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=suhailalvi&label=Profile%20views&color=blueviolet&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=SUHAIL-ALVI&label=Profile%20views&color=blueviolet&style=flat-square" alt="Profile Views" />
 </p>
