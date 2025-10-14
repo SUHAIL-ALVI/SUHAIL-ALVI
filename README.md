@@ -42,39 +42,21 @@
 
 ---
 
-### 💼 **Featured Projects**
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <h4>🧠 AI Summarizer</h4>
-      <p>A web app using OpenAI API to summarize articles & blogs instantly.</p>
-      <a href="https://github.com/SUHAIL-ALVI/AI-Summarizer"><img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-    </td>
-    <td align="center" width="50%">
-      <h4>📹 YouTube API Clone</h4>
-      <p>Full REST API built with Express.js & MongoDB, supporting authentication & search.</p>
-      <a href="https://github.com/SUHAIL-ALVI/YouTube-API"><img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <h4>💬 Twitter Clone</h4>
-      <p>Next.js + Prisma + PostgreSQL + Redis app with GraphQL integration.</p>
-      <a href="https://github.com/SUHAIL-ALVI/Twitter-Clone"><img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-    </td>
-    <td align="center" width="50%">
-      <h4>📦 GitHub README Generator</h4>
-      <p>Node.js + Python app that auto-generates beautiful GitHub READMEs.</p>
-      <a href="https://github.com/SUHAIL-ALVI/README-Generator"><img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-    </td>
-  </tr>
-</table>
 
----
+
 
 ### 🌈 **GitHub Activity Graph**
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SUHAIL-ALVI&theme=tokyo-night&area=true&hide_border=true" width="95%"/>
+</p>
+
+---
+
+
+
+### 🎯 **Profile Summary**
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SUHAIL-ALVI&theme=tokyonight" width="95%"/>
 </p>
 
 ---
@@ -84,16 +66,10 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
 </p>
 
----
 
-### 🎯 **Profile Summary**
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SUHAIL-ALVI&theme=tokyonight" width="95%"/>
-</p>
 
----
-
-<p align="center">✨ <i>“Code. Learn. Build. Repeat.”</i> ✨</p>
+<p align="center">✨ <i>“Seek knowledge from the cradle to the grave.”
+— Prophet Muhammad ﷺ</i> ✨</p>
 
 ---
 
