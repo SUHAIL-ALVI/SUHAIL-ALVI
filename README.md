@@ -1,4 +1,4 @@
- ![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
+  ![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
 
 <h1 align="center">👋 Hey, I'm <span style="color:#00BFFF;">Suhail Alvi</span></h1>
 <h3 align="center">💻 Software Engineer | Full-Stack Developer | Python Generative AI </h3>
